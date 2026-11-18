@@ -1,0 +1,6 @@
+101,Alice Johnson,20,Computer Science,92.5
+102,Bob Smith,21,Electrical Eng,81
+103,Charlie Brown,19,Information Tech,68.5
+104,Diana Prince,22,Software Eng,45
+105,Evan Davis,20,Computer Science,74
+100,zaid,21,IT,84
